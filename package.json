@@ -1,0 +1,33 @@
+{
+  "name": "hashkrio",
+  "version": "1.0.0",
+  "description": "Generate random alphanumeric strings with symbols.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "import": "./index.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arityrajan/hashkrio.git"
+  },
+  "keywords": [
+    "random",
+    "words",
+    "alphanumeric",
+    "string",
+    "generator"
+  ],
+  "author": "hashkrio-mern-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arityrajan/hashkrio/issues"
+  },
+  "homepage": "https://github.com/arityrajan/hashkrio#readme"
+}
